@@ -1,0 +1,12 @@
+# Local / secret files
+.env
+.env.*
+credentials.json
+client_secret*.json
+*.key
+*.pem
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
